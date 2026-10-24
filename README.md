@@ -1,0 +1,2 @@
+# Full-Flow-ASIC-Design-RTL-to-GDSII-Implementation-of-an-8-bit-Synchronous-FIFO
+A production-ready RTL-to-GDSII ASIC design of an 8-bit Synchronous FIFO running at 100 MHz on SCL 180 nm CMOS technology. This repository demonstrates a complete industrial flow from Verilog RTL synthesis and SDC timing constraints to floorplanning, CTS, routing, Calibre DRC/LVS sign-off, and post-layout SPICE verification.
